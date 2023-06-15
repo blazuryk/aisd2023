@@ -1,0 +1,4 @@
+apple,korm
+orenge,perpule
+asd,qwe
+qwerty,qwet
